@@ -2,27 +2,27 @@
 	
 							Segurança da Informação
 
-	Segurança da Informação - é o contrato formado pelo propria empresa por exemplo.
+Segurança da Informação - é o contrato formado pelo propria empresa por exemplo.
 
-	Segurança da Informação {
+Segurança da Informação {
 
-		- Pessoas 
-		- Software
-		- Rede
-		- Telecomunição
+	- Pessoas 
+	- Software
+	- Rede
+	- Telecomunição
 
-		infraestrutura logicos {
+	infraestrutura logicos {
 		
-			=> Permissões de acesso de usuário
-			=> Integridade 
-			=> Confiabilidade
-			=> Rastreabilidade
-		}
+		=> Permissões de acesso de usuário
+		=> Integridade 
+		=> Confiabilidade
+		=> Rastreabilidade
+	}
 
-		infraestrutura física {
-		
-			=> Disponibilidade
-			=> Restrição de acesso
-		}
-	}						
+	infraestrutura física {
+
+		=> Disponibilidade
+		=> Restrição de acesso
+	}
+}						
 	
