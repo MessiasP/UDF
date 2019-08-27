@@ -25,4 +25,7 @@ Segurança da Informação {
 		=> Restrição de acesso
 	}
 }						
+
+não-repudio da informação - é quando uma informação é disseminada/tramitida para uma pessoas/para você
+sem opção de de querer ou não. Mensagens enviadas na sua empresa pelo chefe por exemplo.
 	
